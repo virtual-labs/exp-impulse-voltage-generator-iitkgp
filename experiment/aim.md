@@ -1,4 +1,4 @@
-### Aim of the experiment
+## Aim of the experiment
 
 - For measurement of spark-over and withstand voltages of various test objects.
 - HV testing engineers are also the group of people who benefits, apart from academic and industry personnel.
