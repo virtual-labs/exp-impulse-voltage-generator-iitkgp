@@ -2,36 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Impulse testing of transformers is done using",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Full wave standard impulse",
+        "b": "Chopped wave standard impulse",
+        "c": "Half wave standard impulse",
+        "d": "Only (a) and (b)"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+     
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. For voltage measurements, the gap which gives highest accuracy is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Field gaps",
+        "b": "Sphere gaps",
+        "c": "Rod gaps",
+        "d": "None of these"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Field in case of rod gaps and sphere gaps are",
+      "answers": {
+        "a": "Uniform, uniform",
+        "b": "Uniform, non-uniform",
+        "c": " Non-uniform, uniform",
+        "d": "Non-uniform, non-uniform"
       },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }
