@@ -7,8 +7,8 @@
 ### About the Experiment
 <b>Discipline | <b> Electrical Engineering  
 :--|:--|
-<b> Lab | <b> **Mine Automation & Virtual Reality**
-<b> Experiment|     <b> **Performance Evaluation of Mine Evasee Present in a Ventilation System and Experiment 3**
+<b> Lab | <b> **Study Of Impulse Voltage Generator**
+<b> Experiment|     <b> **Study Of Impulse Voltage Generator and Experiment 1**
 
 
 
