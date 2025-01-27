@@ -7,7 +7,7 @@ V=Vo [exp (-at)-exp (-βt)]
 where a and β are constants of inverse microsecond values. The equation (1) represents a unidirectional wave which usually has a rapid rise to the peak value and slowly falls to zero value. The standard wave-shape is given in figure below.
 
 <div align="center">
-<img src="images/ivg_graph.jpg" width="70%">
+<img src="images/ivg_graph.jpg" width="20%">
 
 </div>
 
@@ -44,7 +44,7 @@ When a power device is abruptly switched on or turned off, trapped energy in the
 The capacitor C is initially charged with charging voltage Vi. When switch is closed at t=0+, the capacitor gets discharged through resistor R, with output voltage, as shown in Fig. 1.
 
 <div align="center">
-<img src="images/image1.jpg" width="50%">
+<img src="images/image1.jpg" width="20%">
 <p>Fig:1: Typical RC circuit</p>
 </div>
 
@@ -53,7 +53,7 @@ A capacitor C discharge through resistance R, hence, gives the output equation (
 vc(t)=Vi -t/RC
 
 <div align="center">
-<img src="images/image2.jpg" width="50%">
+<img src="images/image2.jpg" width="20%">
 <p>Fig:2: Typical waveform for capacitor voltage vs time</p>
 </div>
 
@@ -62,14 +62,14 @@ vc is the voltage across the capacitor, Vi is the initial charging voltage for t
 The time interval τ (= RC) is called as the time constant of the circuit. The voltage vs time for the circuit, is shown in Fig. 2. This is the time for decay to 36.8 % of the initial value.
 
 <div align="center">
-<img src="images/image3.jpg" width="50%">
+<img src="images/image3.jpg" width="20%">
 <p>Fig:3: Typical RC circuit</p>
 </div>
 
 Another arrangement to study the transient is shown in Fig. 3. The circuit itself has a dc source, which charges the capacitor C through a resistor R and gives the output voltage vc(t). The time interval τ (= RC) is called as the time constant of the circuit. This is the time for decay to 63.2% of the initial value. The voltage vs time for the circuit, is shown in Fig. 4.
 
 <div align="center">
-<img src="images/image4.jpg" width="50%">
+<img src="images/image4.jpg" width="20%">
 <p>Fig:4: Charging transient of RC circuit</p>
 </div>
 
@@ -79,17 +79,17 @@ For DC circuit analysis, the voltage and current source excitation is constant, 
 The input DC voltage Vs, which stores the energy in L through a resistor R and gives the output, as shown in Fig. 5.
 
 <div align="center">
-<img src="images/image5.jpg" width="50%">
+<img src="images/image5.jpg" width="20%">
 <p>Fig:5: Typical RL circuit</p>
 </div>
 
 <div align="center">
-<img src="images/eqn2.jpg" width="50%">
+<img src="images/eqn2.jpg" width="20%">
 
 </div>
 
 <div align="center">
-<img src="images/eqn3.jpg" width="50%">
+<img src="images/eqn3.jpg" width="20%">
 
 </div>
 
@@ -97,12 +97,12 @@ Vt(t) is the voltage across inductor. In eq. 4, it is noticed that in time L/R s
 Another arrangement to study the transient is shown in Fig. 7. Initial current at t=0 is present through the inductor, at t=0+,
 
 <div align="center">
-<img src="images/eqn4.jpg" width="50%">
+<img src="images/eqn4.jpg" width="20%">
 
 </div>
 
 <div align="center">
-<img src="images/eqn5.jpg" width="50%">
+<img src="images/eqn5.jpg" width="20%">
 
 </div>
 
@@ -112,19 +112,19 @@ Another arrangement to study the transient is shown in Fig. 7. Initial current a
 </div>
 
 <div align="center">
-<img src="images/image7.jpg" width="50%">
+<img src="images/image7.jpg" width="20%">
 Fig:7: Typical RL circuit
 </div>
 
 For (R2 → ∞ ) discharge will be immediate hence, switching off causes spark at switch. The respective current and voltage waveforms vs time are shown in Fig. 8. The time interval τ (= L/R) is called as the time constant of the circuit.
 
 <div align="center">
-<img src="images/image8.jpg" width="50%">
+<img src="images/image8.jpg" width="20%">
 
 </div>
 
 <div align="center">
-<img src="images/image8a.jpg" width="50%">
+<img src="images/image8a.jpg" width="20%">
 <p>Fig:8: Typical waveforms i (t) vs t and v (t) vs t of RL circuit</p>
 </div>
 
@@ -150,12 +150,12 @@ As already shown, to DC a capacitor acts as an open circuit and inductor acts as
 #### Single stage circuit-IVG
 
 <div align="center">
-<img src="images/image9.jpg" width="50%">
+<img src="images/image9.jpg" width="20%">
 
 </div>
 
 <div align="center">
-<img src="images/image9a.jpg" width="50%">
+<img src="images/image9a.jpg" width="20%">
 Fig:9: Equivalent circuit of a single stage IVG
 </div>
 
@@ -171,7 +171,7 @@ As mentioned earlier in IVG Introduction (http://10.9.1.224:85/), impulse voltag
 Since inductors of large ratings are difficult to manufacture owing to their large size and high currents involved, hence a speedy suitable discharge circuit consisting of capacitors could be preferred.  
 
 <div align="center">
-<img src="images/image10.jpg" width="50%">
+<img src="images/image10.jpg" width="20%">
 <p>Fig:10: Three stage Marx Generator Circuit</p>
 </div>
 
