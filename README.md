@@ -7,7 +7,7 @@
 ### About the Experiment
 <b>Discipline | <b> Electrical Engineering  
 :--|:--|
-<b> Lab | <b> **Study Of Impulse Voltage Generator**
+<b> Lab | <b> **Virtual High Voltage Laboratory**
 <b> Experiment|     <b> **Study Of Impulse Voltage Generator and Experiment 1**
 
 
