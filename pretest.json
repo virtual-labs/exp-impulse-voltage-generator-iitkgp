@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. In large impulse generators, the spark gaps are generally",
+      "answers": {
+        "a": "Sphere gaps",
+        "b": "Hemispherical gaps",
+        "c": "Square gaps",
+        "d": "Either (a) or (b)"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. In a multistage impulse generator, for producing very high voltages, a bank of capacitors is",
+      "answers": {
+        "a": "Charged in parallel and then discharged in series",
+        "b": "Charged in series and then discharged in parallel",
+        "c": "Charged in parallel and then discharged in parallel only",
+        "d": "Charged in series and then discharged in series only"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Failure during switching impulse tests are can be determined by",
+      "answers": {
+        "a": "Visible in oscillograms",
+        "b": "Loud noise produced",
+        "c": "External flashovers",
+        "d": "All of these"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
